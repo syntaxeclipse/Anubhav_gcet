@@ -57,7 +57,10 @@ This project is a basic informational website for Government College of Engineer
 3. Open the `index.html` file in your preferred browser.
 
 ## Screenshots
-
+![Homepage Screenshot](screenshots/Screenshot 2024-09-28 201745.png)
+![2nd Screenshot](screenshots/Screenshot 2024-09-28 201814.png)
+![3rd Screenshot](screenshots/Screenshot 2024-09-28 201804.png)
+![4th Screenshot](screenshots/Screenshot 2024-09-28 201832.png)
 
 
 ## Contact Information
