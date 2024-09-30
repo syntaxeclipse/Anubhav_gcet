@@ -71,5 +71,3 @@ This project is a basic informational website for Government College of Engineer
 - **WhatsApp**: [WhatsApp Link](https://chat.whatsapp.com/FnhzBpbdbBIJX1i3jmC88X)
 
 ---
-
-This README provides an overview of your website and includes all the details necessary for understanding and running the project.
